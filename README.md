@@ -1,6 +1,7 @@
 # amazon-clone
-## We will be covering... ✅ 
-Learn how I  build the FULL Amazon website with FULL E-Commerce Functionality     
+
+## Learn how I  build the FULL Amazon website with FULL E-Commerce Functionality   
+  
 1️⃣ Accounts and Login Page 👨👨👧👦     
 2️⃣ Products Page 📦     
 3️⃣ Cart and Checkout Page  🛒     
